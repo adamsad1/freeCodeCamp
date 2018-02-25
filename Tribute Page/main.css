@@ -1,7 +1,15 @@
-body {
-    background: linear-gradient(to bottom right, #882D60, #7A9F35) !important;
-}
-
+/* http://paletton.com/#uid=65a0u0kllllaFw0g0qFqFg0w0aF*/
 html {
     height: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom right, #882D60, #7A9F35) !important;
+    background-attachment: fixed !important;
+}
+
+.container.container-rounded {
+    border-radius: 10px;
+    background-color: rgba(205, 136, 175, .25);
+    height: 5000px;
 }
