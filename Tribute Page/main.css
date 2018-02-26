@@ -18,19 +18,10 @@ body {
     overflow-y: scroll;
 }
 
-/*.jumbotron {
-    max-height: 50vh;
-    background-color: rgba(139, 46, 95, .5) !important;
-} */
-.carousel {
-    max-height: 50vh;
-}
+/*.carousel {
+    max-height: 62vh;
+}*/
+
 .carousel img {
     border: 1px solid black;
-    height: auto !important;
-    max-height: 50vh !important;
-    width: auto !important;
-    max-width: 100%;
-    margin: auto !important;
 }
-
