@@ -8,8 +8,13 @@ body {
     background-attachment: fixed !important;
 }
 
-.container.container-rounded {
+
+.content {
     border-radius: 10px;
     background-color: rgba(205, 136, 175, .25);
-    height: 5000px;
+    min-height: 98vh;
+    max-height: 98vh;
+    margin: 1% 0;
+    padding: 10px;
+    overflow-y: scroll;
 }
