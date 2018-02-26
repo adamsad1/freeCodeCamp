@@ -8,7 +8,6 @@ body {
     background-attachment: fixed !important;
 }
 
-
 .content {
     border-radius: 10px;
     background-color: rgba(205, 136, 175, .25);
@@ -18,3 +17,20 @@ body {
     padding: 10px;
     overflow-y: scroll;
 }
+
+/*.jumbotron {
+    max-height: 50vh;
+    background-color: rgba(139, 46, 95, .5) !important;
+} */
+.carousel {
+    max-height: 50vh;
+}
+.carousel img {
+    border: 1px solid black;
+    height: auto !important;
+    max-height: 50vh !important;
+    width: auto !important;
+    max-width: 100%;
+    margin: auto !important;
+}
+
