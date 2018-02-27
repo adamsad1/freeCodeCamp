@@ -1,8 +1,7 @@
 /* http://paletton.com/#uid=65a0u0kllllaFw0g0qFqFg0w0aF*/
 html {
     height: 100%;
-    font-family: 'Lora', serif;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 body {
@@ -47,4 +46,16 @@ body {
 .bio h4 {
     font-size: 1rem;
     font-family: 'Lora', serif;
+}
+
+.footer h4 {
+    font-size: 1rem;
+}
+
+.footer h5 {
+    font-size: .75rem;
+}
+
+.footer a {
+    color: rgb(56, 19, 40);
 }
