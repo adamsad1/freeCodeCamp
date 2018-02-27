@@ -1,6 +1,8 @@
 /* http://paletton.com/#uid=65a0u0kllllaFw0g0qFqFg0w0aF*/
 html {
     height: 100%;
+    font-family: 'Lora', serif;
+    font-size: 22px;
 }
 
 body {
@@ -22,6 +24,27 @@ body {
     max-height: 62vh;
 }*/
 
+.container {
+    max-width: 960px !important;
+}
 .carousel img {
     border: 1px solid black;
+}
+
+.quote {
+    font-family: 'Philosopher', sans-serif;
+    text-align: left;
+    color: #2c2c2c;
+    font-size: 1.5rem;
+}
+
+.credit {
+    font-family: 'Nothing You Could Do', cursive;
+    text-align: right;
+    font-size: 1.5rem;
+}
+
+.bio h4 {
+    font-size: 1rem;
+    font-family: 'Lora', serif;
 }
